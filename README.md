@@ -1,4 +1,4 @@
-# Awesome Azure Learning [![Awesome](./img/awesome.png)](https://github.com/sindresorhus/awesome)
+# Awesome Azure Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Quality Assurance](https://github.com/ddneves/awesome-azure-learning/workflows/Quality%20Assurance/badge.svg?branch=master)](https://github.com/ddneves/awesome-azure-learning/actions?query=workflow%3A%22Quality+Assurance%22)
 This repo includes numerous references for Azure learning, especially for the Azure Certs, Azure Architecture, and any other learning materials e.g. Security topics.
 
 ![Learn](/img/learn.png)
@@ -14,21 +14,27 @@ This repo includes numerous references for Azure learning, especially for the Az
 ## Topics
 - [Learning](./topics/learning.md)
 - [Certifications (general resources)](./topics/certifications/certifications.md)
-  - [Exam AZ-900: Microsoft Azure Fundamentals](./topics/certifications/az-900.md)
-  - [Exam AZ-103: Microsoft Azure Administrator (deprecating)](./topics/certifications/az-103.md)
-  - [Exam AZ-104: Microsoft Azure Administrator (beta)](./topics/certifications/az-104.md)
-  - [Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](./topics/certifications/az-120.md)
-  - [Exam AZ-204: Developing Solutions for Microsoft Azure (beta)](./topics/certifications/az-204.md)
-  - [Exam AZ-220: Microsoft Azure IoT Developer (beta)](./topics/certifications/az-220.md)
-  - [Exam AZ-300: Microsoft Azure Architect Technologies (deprecating)](./topics/certifications/az-300.md)
-  - [Exam AZ-301: Microsoft Azure Architect Design (deprecating)](./topics/certifications/az-301.md)
-  - [Exam AZ-400: Microsoft Azure DevOps Solutions](./topics/certifications/az-400.md)
-  - [Exam AZ-500: Microsoft Azure Security Technologies](./topics/certifications/az-500.md)
-  - [Exam AI-100: Designing and Implementing an Azure AI Solution](./topics/certifications/ai-100.md)
-  - [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](./topics/certifications/dp-100.md)
-  - [Exam DP-200: Implementing an Azure Data Solution (updating)](./topics/certifications/dp-200.md)
-  - [Exam DP-201: Designing an Azure Data Solution (updating)](./topics/certifications/dp-201.md)
-  - [Exam DA-100: Analyzing Data with Microsoft Power BI (beta)](./topics/certifications/da-100.md)
+  - **Fundamentals:**
+    - [Exam AZ-900: Microsoft Azure Fundamentals](./topics/certifications/az-900.md)
+    - [Exam AI-900: Microsoft Azure AI Fundamentals (beta)](./topics/certifications/ai-900.md)
+    - [Exam DP-900: Microsoft Azure Data Fundamentals (beta)](./topics/certifications/dp-900.md)
+  - **Associate:**
+    - [Exam AZ-103: Microsoft Azure Administrator (deprecating)](./topics/certifications/az-103.md)
+    - [Exam AZ-104: Microsoft Azure Administrator (beta)](./topics/certifications/az-104.md)
+    - [Exam AZ-204: Developing Solutions for Microsoft Azure (beta)](./topics/certifications/az-204.md)
+    - [Exam AZ-500: Microsoft Azure Security Technologies](./topics/certifications/az-500.md)
+    - [Exam AI-100: Designing and Implementing an Azure AI Solution](./topics/certifications/ai-100.md)
+    - [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](./topics/certifications/dp-100.md)
+    - [Exam DP-200: Implementing an Azure Data Solution (updating)](./topics/certifications/dp-200.md)
+    - [Exam DP-201: Designing an Azure Data Solution (updating)](./topics/certifications/dp-201.md)
+    - [Exam DA-100: Analyzing Data with Microsoft Power BI (beta)](./topics/certifications/da-100.md)
+  - **Expert:**
+    - [Exam AZ-300: Microsoft Azure Architect Technologies (deprecating)](./topics/certifications/az-300.md)
+    - [Exam AZ-301: Microsoft Azure Architect Design (deprecating)](./topics/certifications/az-301.md)
+    - [Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions](./topics/certifications/az-400.md)
+  - **Speciality:**
+    - [Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](./topics/certifications/az-120.md)
+    - [Exam AZ-220: Microsoft Azure IoT Developer (beta)](./topics/certifications/az-220.md)
 - [Communities](./topics/communities.md)
 - [Architecture](./topics/architecture.md)
 - [Security](./topics/security.md)
